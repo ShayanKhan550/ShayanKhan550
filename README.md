@@ -3,5 +3,5 @@
 🌱 I’m currently learning advanced CSS techniques, JavaScript ES6+, and integrating APIs for dynamic web experiences.
 💞️ I’m looking to collaborate on open-source projects related to web development, innovative design systems, and interactive applications.
 📫 How to reach me: Shynkhn17@gmail.com
-😄 Pronouns: He/Him.
+😄 Pronouns: He/Him
 ⚡ Fun fact: I believe great design is where art meets logic, and I often find inspiration from everyday problem-solving challenges.
